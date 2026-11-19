@@ -30,5 +30,5 @@ SolidBox {
 E-puck {
   translation -0.25 -0.35 0
   rotation 0 0 1 0
-  controller "wall_follower"
+  controller "testep"
 }
